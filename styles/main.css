@@ -1,0 +1,140 @@
+body{
+    background: #060a08;
+}
+
+.main-pg{
+    background: #060a08;
+}
+
+.col-md-3.mb-2.mb-md-0{
+    margin-left: 10px;
+    color: white;
+}
+
+header{
+    background: #060a08;
+}
+
+.nav-link.px-2{
+    color: white;
+}
+
+.col-md-3.text-end{
+    margin-right: 10px;
+}
+
+.btn.btn-outline-primary.me-2{
+    color: #57C785;
+}
+.btn.btn-primary{
+    background: #57C785;
+    background: linear-gradient(90deg, rgba(87, 199, 133, 1) 24%, rgba(83, 237, 83, 1) 100%);
+}
+
+.sec-inicio{
+    display: flex;
+    align-items: center; 
+    height: 100vh;
+}
+
+.sec-mp{
+    display: flex;
+    align-items: center;
+    height: 80vh;
+}
+
+
+.contenido{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.title-01{
+    color: white;
+    font-style: bold;
+    font-size: 80px;
+}
+
+.p-01{
+    color: white;
+    font-size: 20px;
+}
+
+.p-02{
+    color: #403A3A;
+    font-size: 20px;
+}
+
+.containers-02{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    color: white;
+    width: 1700px;
+    height: 346px;
+}
+
+.container-md{
+    width: 300px;
+    height: 257px;  
+    background: #27272A;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+.contenido-02{
+    margin-left: 80px;
+    margin-right: 80px;
+    width: 1920px;
+    height: 346px;
+}
+
+.contenido-03{
+    margin-left: 80px;
+    margin-right: 80px;
+    width: 1920px;
+    height: 346px;
+}
+
+.contenido-04{
+    margin-left: 80px;
+    margin-right: 80px;
+    width: 1920px;
+    height: 346px;
+}
+
+.contenido-05{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 80px;
+    margin-right: 80px;
+    width: 1920px;
+    height: 346px;
+    background: #403a3a;
+    background: linear-gradient(10deg, rgba(64, 58, 58, 1) 0%, rgba(130, 255, 165, 1) 100%);
+    stroke: #27272A;
+    border-radius: 5px;
+}
+
+.title{
+    color: white;
+}
+
+footer{
+    background: #060a08;
+}
+
+footer .text-body-secondary{
+    color: white !important;
+}
+
+footer .nav-link{
+    color: white !important;
+}
